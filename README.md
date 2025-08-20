@@ -1,2 +1,1 @@
-# Simple-Drawing-Program
-A simple drawing program using WebGL
+Simple 2D vector calculator
